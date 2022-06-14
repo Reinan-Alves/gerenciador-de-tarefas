@@ -1,0 +1,10 @@
+COMO USAR:
+
+1- Clique em novo para adicionar uma tarefa;
+2- Digite o nome da tarefa e pressione cadastrar para salvar a tarefa ou voltar para abortar o procedimento;
+3- Ao realizar a tarefa marque a caixa de seleção para indicar como concuída. Voce também pode desfazer a ação;
+4- O Botão editar altera uma tarefa cadastrada;
+5-O botão remover apaga uma tarefa cadastrada;
+
+NOTA:
+Os dados ficaram salvo apenas no seu navegador;
