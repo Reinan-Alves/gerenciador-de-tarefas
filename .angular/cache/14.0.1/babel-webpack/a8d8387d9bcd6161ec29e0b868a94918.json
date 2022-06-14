@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class Tarefa {\n  constructor(id, nome, concluida) {\n    this.id = id;\n    this.nome = nome;\n    this.concluida = concluida;\n  }\n\n}","map":null,"metadata":{},"sourceType":"module"}
